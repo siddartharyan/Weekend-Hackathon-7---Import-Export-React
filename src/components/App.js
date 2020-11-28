@@ -15,5 +15,5 @@ const App = () => {
     </div>
   );
 };
-
+export { Heading, InputQuery, SubHeading, SubmitButton };
 export default App;
